@@ -7,9 +7,9 @@
 - Natalie Ovcarov
 
 ## What and Why?  
-HydroForest is a **web app** designed to help users **track their daily water intake** while making hydration a fun and rewarding experience. Every time a user logs a bottle of water, they **grow a virtual tree** in their digital forest. Over time, consistent hydration leads to a **lush and thriving forest**.  
+HydroForest is a **web app** designed to help users **track their daily water intake** while making hydration a fun and rewarding experience. Every time a user logs a bottle of water, they **grow a virtual tree** in their digital forest. Over time, consistent hydration leads to a thriving forest.  
 
-This app addresses the problem of **inconsistent water intake**, which can lead to dehydration, fatigue, and other health issues. By **gamifying** the experience and providing a **visual representation of progress**, HydroForest encourages users to **build healthy habits** while enjoying a growing digital ecosystem.  
+This app addresses the problem of **inconsistent water intake**, which can lead to dehydration, fatigue, and other health issues. By gamifying the experience and providing a **visual representation of progress**, HydroForest encourages users to build healthy habits while enjoying a growing digital ecosystem.  
 
 ## For Whom?  
 HydroForest is designed for:  
@@ -18,7 +18,7 @@ HydroForest is designed for:
 - **Students and professionals** who often forget to drink water during busy schedules.  
 - **Anyone who wants a fun, interactive way to build better hydration habits.**  
 
-By making hydration a **rewarding** and **engaging** experience, HydroForest caters to a **wide audience** who struggles with maintaining consistent water intake.  
+By making hydration a rewarding and engaging experience, HydroForest caters to a wide audience who struggles with maintaining consistent water intake.  
 
 ## How?  
 From an end-user perspective, HydroForest will:  
