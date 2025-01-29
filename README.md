@@ -2,6 +2,10 @@
 
 # HydroForest - Grow Trees by Drinking Water
 
+## Teammates
+Jun Li
+Natalie Ovcarov
+
 ## What and Why?  
 HydroForest is a **web app** designed to help users **track their daily water intake** while making hydration a fun and rewarding experience. Every time a user logs a bottle of water, they **grow a virtual tree** in their digital forest. Over time, consistent hydration leads to a **lush and thriving forest**.  
 
