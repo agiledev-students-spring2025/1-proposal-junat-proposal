@@ -24,7 +24,12 @@ From an end-user perspective, HydroForest will:
 4. **Gamify the experience** by letting users build and customize their own forest.  
 5. **Send reminders and notifications** to encourage users to stay hydrated.  
 
-### 🎯 Optional Future Features:  
+### Optional Future Features:  
 - **Social Sharing** - Share forest progress with friends.  
-- **Real-world Impact
+- **Social and competitive gamification** 
+    - **Leaderboards**: Compete with friends for the healthiest forest
+    - **Friend Challenges**: Ex. Drink 8 glasses today and unlock a Sakura tree!
+- **Real World Impact**: Plant Real Trees! Every 500 bottles logged contributes to a real tree planted via partnerships with environmental NGOs.
 
+### Scope
+HydroForest is a great project for a team of 4–6 students to complete in one semester. The main features—tracking water intake, growing a virtual forest, and adding gamification, are doable using tools like React and Firebase. If needed, we can adjust the scope by adding or simplifying features, like social sharing or real-world tree planting, depending on how complex things get. By following an Agile approach, we can focus on building the core functionality first and then improve it over time, making sure we have a fun and engaging app by the end of the semester.
