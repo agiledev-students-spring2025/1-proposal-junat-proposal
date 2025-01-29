@@ -26,5 +26,14 @@ From an end-user perspective, HydroForest will:
 
 ### 🎯 Optional Future Features:  
 - **Social Sharing** - Share forest progress with friends.  
-- **Real-world Impact
+- **Real-world Impact** - Partner with tree-planting organizations for milestones.  
+- **Customizable Themes** - Different forest environments based on progress.  
 
+## Scope  
+This project is **well-balanced** for a semester-long development cycle with **4-6 developers**.  
+- **Moderate complexity**: Tracking water intake and visualizing tree growth is achievable.  
+- **Challenges include** implementing animations and UI design for tree growth.  
+- **Possible integrations**: Basic analytics, notifications, and gamification mechanics.  
+- **Scalable**: The project can start simple (basic tracking + visuals) and expand with additional features over time.  
+
+This ensures that HydroForest is **challenging enough** to be engaging but **not overly complex**, making it a **realistic and rewarding** project for a semester. 🚀🌱  
