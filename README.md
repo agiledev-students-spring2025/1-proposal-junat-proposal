@@ -26,7 +26,6 @@ From an end-user perspective, HydroForest will:
 
 ### Optional Future Features:  
 - **Social Sharing** - Share forest progress with friends.  
-<<<<<<< HEAD
 - **Social and competitive gamification** 
     - **Leaderboards**: Compete with friends for the healthiest forest
     - **Friend Challenges**: Ex. Drink 8 glasses today and unlock a Sakura tree!
